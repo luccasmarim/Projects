@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-project",
+  "version": "1.0.0",
+  "description": "A project for web scraping and automation using Puppeteer.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
